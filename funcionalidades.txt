@@ -1,0 +1,2 @@
+Funcionalidade 1: Cadastro de usuário
+Funcionalidade 2: Login e autenticação
