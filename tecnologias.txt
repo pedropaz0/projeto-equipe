@@ -1,2 +1,3 @@
 Tecnologia 1: HTML
 Tecnologia 2: CSS
+Tecnologia 3: Javascript
