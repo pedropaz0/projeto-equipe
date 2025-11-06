@@ -1,1 +1,3 @@
-Pedro Lucas da Paz Bonfim - Responsabilidade: integração e testes
+Pedro Lucas da Paz Bonfim - Responsabilidade: Integração, testes, documentação e dono do repositório
+Cauã Matheus Sousa Conceição - Responsabilidade: Implementação de funcionalidades do repositório
+Davi Teles de Lima - Responsabilidade: Implementação das tecnologias do repositório
